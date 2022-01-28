@@ -7,7 +7,7 @@ package studlist;
 
 /**
  *
- * @author Megha Patel
+ * @author jeel Patel
  */
 public class Student {
     
