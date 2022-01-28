@@ -9,12 +9,13 @@ import java.util.Scanner;
 
 /**
  *
- * @author Megha Patel
+ * @author Jeel patel
  */
 public class StudList {
 
     /**
      * @param args the command line arguments
+     jan 28
      */
     public static void main(String[] args) {
         Student[] sList=new Student[3];//declare an array of objects
