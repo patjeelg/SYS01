@@ -9,7 +9,7 @@ package studlist;
  *
  * @author Megha Patel
  */
-public class Student {
+public class Student  {
     
     private String name;
 
